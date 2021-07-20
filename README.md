@@ -20,6 +20,6 @@
 <h2 id="licenca"> ⚠️  Licença</h2>
 
 Esse projeto esta sobre a licença [MIT](https://github.com/Rodrigo-Souza-DEV/Jogo-da-velha-/blob/master/LICENSE).
-<p>Feito por Rodrigo Souza.</p>
+<p>Feito por <a href="https://github.com/Rodrigo-Souza-DEV">Rodrigo Souza.</a></p>
 <hr>
 <h3>Acesse o jogo <a href="https://rodrigo-souza-dev.github.io/Jogo-da-velha-/">Aqui.</a></h3>
